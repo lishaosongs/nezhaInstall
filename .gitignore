@@ -1,7 +1,10 @@
 .idea/
+utils/
 *.yaml
 *.service
-utils/
 *.go
 *.mod
 *.sum
+dist/*
+!dist/nezhaInstall_linux_amd64_v1/
+!dist/nezhaInstall_linux_amd64_v1/nezhaInstall
