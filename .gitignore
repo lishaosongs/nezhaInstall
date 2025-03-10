@@ -8,3 +8,4 @@ utils/
 dist/*
 !dist/nezhaInstall_linux_amd64_v1/
 !dist/nezhaInstall_linux_amd64_v1/nezhaInstall
+*.sh
